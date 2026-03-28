@@ -1,0 +1,1 @@
+​A responsive, interactive web application designed to help users structure their nutrition for fat loss. Built with a focus on clean UI and smooth interactions using Antigravity.
